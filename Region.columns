@@ -1,0 +1,3 @@
+"name","type"
+"RegionID","INT"
+"RegionDescription","VARCHAR(50)"

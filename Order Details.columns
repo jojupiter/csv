@@ -1,0 +1,6 @@
+"name","type"
+"OrderID","INT"
+"ProductID","INT"
+"UnitPrice","DECIMAL(7, 4)"
+"Quantity","INT"
+"Discount","DECIMAL(2, 1)"

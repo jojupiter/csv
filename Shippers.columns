@@ -1,0 +1,4 @@
+"name","type"
+"ShipperID","INT"
+"CompanyName","VARCHAR(16)"
+"Phone","VARCHAR(14)"

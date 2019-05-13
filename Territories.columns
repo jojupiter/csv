@@ -1,0 +1,4 @@
+"name","type"
+"TerritoryID","INT"
+"TerritoryDescription","VARCHAR(50)"
+"RegionID","INT"
